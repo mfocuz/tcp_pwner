@@ -1,0 +1,20 @@
+recv:
+Select an option :
+0 : Register
+1 : Login
+send:
+0
+recv:
+Enter your login: 
+send:
+mfocuz
+recv:
+Enter your role (or guest): 
+send:
+
+recv:
+Generating your secret token with sha256 of our secret 16 bytes salt and your information
+Please wait ...
+Done !
+You can connect with bWZvY3V6Og==:MWQ2MTgzZjFlM2FjNmZhOTIxODVhNTFmNzkzMjllZjNhYWJkOTk0OWRlNmYwOWU1M2U0YTQ2ZGI2ZGRkODFmYw==
+end:
